@@ -1,0 +1,34 @@
+## Interface: 90105
+## Title: |cff00ff00r|r|cff009cffUI|r
+## Author: xHoaxDreamx, Signal-Proudmoore
+## Version: 9.1.1
+## Notes: Lightweight modification of blizzard UI.
+## Compatible v.9.1.1
+## SavedVariables: ruiDB
+
+# rui options
+cfg.lua
+
+# core
+core\actionbar.lua
+core\alert.lua
+core\greetings.lua
+core\nameplateshort.lua
+core\prdresource.lua
+core\stopwatch.lua
+core\talkinghead.lua
+core\tooltip.lua
+core\unitframe.lua
+
+# module
+module\autosellrepair.lua
+module\chatcopy.lua
+module\cvar.lua
+module\easydelete.lua
+module\grid.lua
+module\ilvl.lua
+module\mapcoordinates.lua
+module\minimap.lua
+module\misc.lua
+module\nameplatepercent.lua
+module\prd.lua

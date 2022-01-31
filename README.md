@@ -1,6 +1,8 @@
 #### rUI
 Very lightweight simple slight modification of blizzard default UI
 
+Updated for wow 9.1.5
+
 A very lightweight simple slight modification of blizzard default UI.
 
 - type /rui for options
